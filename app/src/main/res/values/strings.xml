@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Go London</string>
+    <string name="saved_stations">Saved Stations</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="nearby">Nearby</string>
+    <string name="parking">Parking</string>
+    <string name="journey">Journey</string>
+    <string name="current_address">Your Address:</string>
+    <string name="refresh">Refresh</string>
+    <string name="services">SERVICES</string>
+    <string name="close_desc">Close line details and open map in full screen</string>
+    <string name="lineName">Line Name: </string>
+    <string name="reason">Reason:</string>
+    <string name="streetView">Street View</string>
+    <string name="search">Search</string>
+    <string name="no_nearby_stops_1km">There are no bus stops within a range of 1 kms. Click here to try within range of 2 kms </string>
+    <string name="no_nearby_stops_2km">There are no bus stops within a range of 2 kms. Please try some other location</string>
+
+    <string name="no_nearby_station_1km">There are no train stops within a range of 1 kms. Click here to try within range of 2 kms</string>
+    <string name="no_nearby_station_2km">There are no train stops within a range of 2 kms. Please try some other location</string>
+    <string name="no_info_available_trains">No data provided</string>
+    <string name="no_info_available_bus">No data provided</string>
+    <string name="line_details">Line Details</string>
+
+    <string name="home_station">Home Station:</string>
+    <string name="work_station">Work Station:</string>
+    <string name="favorites">Favorites:</string>
+    <string name="no_station_info">No station has been added yet</string>
+    <string name="delete">Delete</string>
+    <string name="remindmelater">Remind me later</string>
+    <string name="nothanks">No, thanks</string>
+    <string name="later">Later</string>
+    <string name="ratenow">Rate Now</string>
+    <string name="rategolondon">Rate Go London</string>
+    <string name="notflserivceavailable">TFL Service is not available in this region. Please try other location within UK</string>
+
+    <string name="rateme">If you enjoy using this app, would you mind taking a moment to rate it? Thank you for your support!</string>
+
+</resources>

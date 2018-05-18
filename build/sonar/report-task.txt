@@ -1,0 +1,7 @@
+organization=sindhu238-github
+projectKey=GoLondon
+serverUrl=https://sonarcloud.io
+serverVersion=6.6.0.30224
+dashboardUrl=https://sonarcloud.io/dashboard/index/GoLondon
+ceTaskId=AV6UHESPidf0SozqgmLT
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AV6UHESPidf0SozqgmLT

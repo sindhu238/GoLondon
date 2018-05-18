@@ -1,0 +1,206 @@
+[
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/green_yellow_gradient.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/green_yellow_gradient.png"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/bottom_toolbar_bg.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/bottom_toolbar_bg.png"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/reminder_selected.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/reminder_selected.png"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/first_station.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/first_station.png"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/favorite_fab.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/favorite_fab.png"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/walking_icon.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/walking_icon.png"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/carpark.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/carpark.png"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/favorites_unselected.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/favorites_unselected.png"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/station_marker.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/station_marker.png"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/train_station.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/train_station.png"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/place_marker.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/place_marker.png"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/arrow_top.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/arrow_top.png"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/tickethall.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/tickethall.png"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/infowindow.9.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/infowindow.9.png"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/horizontal_line.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/horizontal_line.png"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/reminder_disabled.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/reminder_disabled.png"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/work_unselected.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/work_unselected.png"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/reminder_unselected.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/reminder_unselected.png"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/next_stations.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/next_stations.png"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/bad_status.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/bad_status.png"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/home_unselected.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/home_unselected.png"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/reminder_enabled.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/reminder_enabled.png"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/payphone.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/payphone.png"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/current_station.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/current_station.png"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/favorites_selected.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/favorites_selected.png"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/vertical_line.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/vertical_line.png"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/marker.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/marker.png"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/white_bg_with_shadows.9.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/white_bg_with_shadows.9.png"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/nearby.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/nearby.png"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/search.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/search.png"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/escalator.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/escalator.png"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/close_fab.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/close_fab.png"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/home_selected.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/home_selected.png"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/arrow_right_purple.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/arrow_right_purple.png"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/add_fab.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/add_fab.png"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/photobooth.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/photobooth.png"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/parking_disabled.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/parking_disabled.png"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/arrow_pointing_right.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/arrow_pointing_right.png"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/arrow_down.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/arrow_down.png"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/last_station.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/last_station.png"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/wifi.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/wifi.png"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/work_selected.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/work_selected.png"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/cashmachine.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/cashmachine.png"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/good_status.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/good_status.png"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/stops_marker_circle.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/stops_marker_circle.png"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/refresh.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/refresh.png"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/waitingroom.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/waitingroom.png"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/service_desc_bg.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/service_desc_bg.png"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/journey_disabled.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/journey_disabled.png"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/delete.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/delete.png"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/drawable-mdpi/toilet.png",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/drawable-mdpi/toilet.png"
+    }
+]

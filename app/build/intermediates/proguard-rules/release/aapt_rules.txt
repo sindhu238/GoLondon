@@ -1,0 +1,198 @@
+# view res/layout/design_bottom_navigation_item.xml #generated:26
+-keep class android.support.design.internal.BaselineLayout { <init>(...); }
+
+# view res/layout/design_navigation_item.xml #generated:17
+-keep class android.support.design.internal.NavigationMenuItemView { <init>(...); }
+
+# view res/layout/design_navigation_menu.xml #generated:17
+-keep class android.support.design.internal.NavigationMenuView { <init>(...); }
+
+# view res/layout/design_layout_snackbar_include.xml #generated:18
+-keep class android.support.design.internal.SnackbarContentLayout { <init>(...); }
+
+# view res/layout/app_bar_main.xml #generated:17
+-keep class android.support.design.widget.AppBarLayout { <init>(...); }
+
+# view res/layout/design_text_input_password_icon.xml #generated:18
+-keep class android.support.design.widget.CheckableImageButton { <init>(...); }
+
+# view res/layout/app_bar_main.xml #generated:25
+-keep class android.support.design.widget.CollapsingToolbarLayout { <init>(...); }
+
+# view res/layout/activity_main.xml #generated:2
+# view res/layout/app_bar_main.xml #generated:10
+# view res/layout/design_bottom_sheet_dialog.xml #generated:17
+# view res/layout/favorites_activity.xml #generated:3
+# view res/layout/nearby_fragment.xml #generated:2
+# view res/layout/nearby_station_detail.xml #generated:3
+# view res/layout/nearby_stops_detail.xml #generated:3
+-keep class android.support.design.widget.CoordinatorLayout { <init>(...); }
+
+# view res/layout/design_layout_snackbar.xml #generated:18
+# view sw600dp-v13/res/layout-sw600dp-v13/design_layout_snackbar.xml #generated:18
+-keep class android.support.design.widget.Snackbar$SnackbarLayout { <init>(...); }
+
+# view res/layout/nearby_fragment.xml #generated:58
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# view res/layout/abc_alert_dialog_material.xml #generated:41
+# view res/layout/line_news_fragment.xml #generated:21
+# view res/layout/nearby_fragment.xml #generated:9
+# view res/layout/nearby_station_detail.xml #generated:111
+# view res/layout/nearby_stops_detail.xml #generated:21
+-keep class android.support.v4.widget.NestedScrollView { <init>(...); }
+
+# view res/layout/abc_alert_dialog_button_bar_material.xml #generated:43
+# view res/layout/abc_alert_dialog_material.xml #generated:52
+# view res/layout/abc_alert_dialog_material.xml #generated:66
+# view res/layout/abc_alert_dialog_title_material.xml #generated:56
+-keep class android.support.v4.widget.Space { <init>(...); }
+
+# view res/layout/abc_select_dialog_material.xml #generated:23
+-keep class android.support.v7.app.AlertController$RecycleListView { <init>(...); }
+
+# view res/layout/abc_action_menu_item_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ActionMenuItemView { <init>(...); }
+
+# view res/layout/abc_expanded_menu_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ExpandedMenuView { <init>(...); }
+
+# view res/layout/abc_list_menu_item_layout.xml #generated:17
+# view res/layout/abc_popup_menu_item_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ListMenuItemView { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:27
+-keep class android.support.v7.widget.ActionBarContainer { <init>(...); }
+
+# view res/layout/abc_action_mode_bar.xml #generated:19
+# view res/layout/abc_screen_toolbar.xml #generated:43
+-keep class android.support.v7.widget.ActionBarContextView { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:17
+-keep class android.support.v7.widget.ActionBarOverlayLayout { <init>(...); }
+
+# view res/layout/abc_action_menu_layout.xml #generated:17
+-keep class android.support.v7.widget.ActionMenuView { <init>(...); }
+
+# view res/layout/abc_activity_chooser_view.xml #generated:19
+-keep class android.support.v7.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_material.xml #generated:18
+-keep class android.support.v7.widget.AlertDialogLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_button_bar_material.xml #generated:26
+-keep class android.support.v7.widget.ButtonBarLayout { <init>(...); }
+
+# view res/layout/favorites_activity.xml #generated:120
+# view res/layout/favorites_activity.xml #generated:47
+# view res/layout/favorites_cardview.xml #generated:8
+# view res/layout/line_details_fragment.xml #generated:22
+# view res/layout/line_news_cardlayout.xml #generated:11
+# view res/layout/line_news_fragment.xml #generated:36
+# view res/layout/nearby_station_adapter.xml #generated:8
+# view res/layout/nearby_stops_adapter.xml #generated:8
+# view res/layout/nearby_stops_detail.xml #generated:54
+# view res/layout/nearby_stops_detail.xml #generated:97
+-keep class android.support.v7.widget.CardView { <init>(...); }
+
+# view res/layout/abc_screen_content_include.xml #generated:19
+-keep class android.support.v7.widget.ContentFrameLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_title_material.xml #generated:45
+-keep class android.support.v7.widget.DialogTitle { <init>(...); }
+
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:23
+-keep class android.support.v7.widget.FitWindowsFrameLayout { <init>(...); }
+
+# view res/layout/abc_dialog_title_material.xml #generated:22
+# view res/layout/abc_screen_simple.xml #generated:17
+-keep class android.support.v7.widget.FitWindowsLinearLayout { <init>(...); }
+
+# view res/layout/line_details_fragment.xml #generated:44
+# view res/layout/nearby_stops_detail.xml #generated:126
+# view res/layout/nearby_viewpager_stations.xml #generated:38
+# view res/layout/nearby_viewpager_stops.xml #generated:27
+-keep class android.support.v7.widget.RecyclerView { <init>(...); }
+
+# view res/layout/abc_search_view.xml #generated:75
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:36
+# view res/layout/app_bar_main.xml #generated:45
+-keep class android.support.v7.widget.Toolbar { <init>(...); }
+
+# view res/layout/abc_screen_simple.xml #generated:25
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:32
+-keep class android.support.v7.widget.ViewStubCompat { <init>(...); }
+
+# view res/layout/nearby_fragment.xml #generated:48
+-keep class com.astuetz.PagerSlidingTabStrip { <init>(...); }
+
+# view AndroidManifest.xml #generated:78
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(...); }
+
+# view res/layout/app_bar_main.xml #generated:34
+# view res/layout/nearby_station_detail.xml #generated:16
+# view res/layout/nearby_stops_detail.xml #generated:8
+-keep class com.google.android.gms.maps.MapFragment { <init>(...); }
+
+# view res/layout/streetview_dialog.xml #generated:6
+-keep class com.google.android.gms.maps.StreetViewPanoramaFragment { <init>(...); }
+
+# view AndroidManifest.xml #generated:88
+-keep class com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:102
+-keep class com.google.android.gms.measurement.AppMeasurementJobService { <init>(...); }
+
+# view AndroidManifest.xml #generated:83
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:98
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(...); }
+
+# view AndroidManifest.xml #generated:122
+-keep class com.google.firebase.iid.FirebaseInstanceIdInternalReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:108
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:129
+-keep class com.google.firebase.iid.FirebaseInstanceIdService { <init>(...); }
+
+# view AndroidManifest.xml #generated:137
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(...); }
+
+# view res/layout/amu_text_bubble.xml #generated:7
+-keep class com.google.maps.android.ui.RotationLayout { <init>(...); }
+
+# view AndroidManifest.xml #generated:64
+-keep class com.srisindhusaride.golondon.Favorites_Activity { <init>(...); }
+
+# view AndroidManifest.xml #generated:41
+-keep class com.srisindhusaride.golondon.GetAddressIntentService { <init>(...); }
+
+# view AndroidManifest.xml #generated:45
+-keep class com.srisindhusaride.golondon.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:32
+-keep class com.srisindhusaride.golondon.MainApplication { <init>(...); }
+
+# view AndroidManifest.xml #generated:56
+-keep class com.srisindhusaride.golondon.Nearby_Station_Detail { <init>(...); }
+
+# view AndroidManifest.xml #generated:60
+-keep class com.srisindhusaride.golondon.Nearby_Stops_Detail { <init>(...); }
+
+# view res/layout/nearby_station_adapter.xml #generated:61
+# view res/layout/nearby_stops_adapter.xml #generated:62
+# view res/layout/nearby_stops_detail.xml #generated:104
+# view res/layout/nearby_stops_detail.xml #generated:60
+# view res/layout/nearby_viewpager_stations.xml #generated:29
+# view res/layout/nearby_viewpager_stops.xml #generated:8
+-keep class com.tuyenmonkey.mkloader.MKLoader { <init>(...); }
+
+# view res/layout/nearby_station_adapter.xml #generated:46
+# view res/layout/nearby_stops_adapter.xml #generated:46
+-keep class pl.droidsonroids.gif.GifImageView { <init>(...); }
+

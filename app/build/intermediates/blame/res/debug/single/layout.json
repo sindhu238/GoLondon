@@ -1,0 +1,342 @@
+[
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/venkateswara/.android/build-cache/0e3afcf66e58d5135a101aa6f6d1e12d07d7e40a/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/venkateswara/.android/build-cache/0e3afcf66e58d5135a101aa6f6d1e12d07d7e40a/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/venkateswara/.android/build-cache/0e3afcf66e58d5135a101aa6f6d1e12d07d7e40a/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/venkateswara/.android/build-cache/952f89ca2b8a588b99ec9e7cbc26b921b40302a3/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/venkateswara/.android/build-cache/952f89ca2b8a588b99ec9e7cbc26b921b40302a3/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/venkateswara/.android/build-cache/0e3afcf66e58d5135a101aa6f6d1e12d07d7e40a/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/nearby_viewpager_stations.xml",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/layout/nearby_viewpager_stations.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/venkateswara/.android/build-cache/952f89ca2b8a588b99ec9e7cbc26b921b40302a3/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/venkateswara/.android/build-cache/0e3afcf66e58d5135a101aa6f6d1e12d07d7e40a/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/nearby_station_adapter.xml",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/layout/nearby_station_adapter.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/favorites_activity.xml",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/layout/favorites_activity.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/venkateswara/.android/build-cache/0e3afcf66e58d5135a101aa6f6d1e12d07d7e40a/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/venkateswara/.android/build-cache/0e3afcf66e58d5135a101aa6f6d1e12d07d7e40a/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/streetview_dialog.xml",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/layout/streetview_dialog.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/venkateswara/.android/build-cache/952f89ca2b8a588b99ec9e7cbc26b921b40302a3/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/nearby_stops_adapter.xml",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/layout/nearby_stops_adapter.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/venkateswara/.android/build-cache/0e3afcf66e58d5135a101aa6f6d1e12d07d7e40a/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/rotate_refresh_menu.xml",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/layout/rotate_refresh_menu.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/venkateswara/.android/build-cache/0e3afcf66e58d5135a101aa6f6d1e12d07d7e40a/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/venkateswara/.android/build-cache/0e3afcf66e58d5135a101aa6f6d1e12d07d7e40a/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/nearby_stops_detail.xml",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/layout/nearby_stops_detail.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/venkateswara/.android/build-cache/0e3afcf66e58d5135a101aa6f6d1e12d07d7e40a/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/venkateswara/.android/build-cache/0e3afcf66e58d5135a101aa6f6d1e12d07d7e40a/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/venkateswara/.android/build-cache/952f89ca2b8a588b99ec9e7cbc26b921b40302a3/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/venkateswara/.android/build-cache/0e3afcf66e58d5135a101aa6f6d1e12d07d7e40a/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/venkateswara/.android/build-cache/0e3afcf66e58d5135a101aa6f6d1e12d07d7e40a/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/venkateswara/.android/build-cache/952f89ca2b8a588b99ec9e7cbc26b921b40302a3/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/venkateswara/.android/build-cache/0e3afcf66e58d5135a101aa6f6d1e12d07d7e40a/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/venkateswara/.android/build-cache/0e3afcf66e58d5135a101aa6f6d1e12d07d7e40a/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/app_rater.xml",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/layout/app_rater.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/venkateswara/.android/build-cache/0e3afcf66e58d5135a101aa6f6d1e12d07d7e40a/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/venkateswara/.android/build-cache/0e3afcf66e58d5135a101aa6f6d1e12d07d7e40a/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/venkateswara/.android/build-cache/0e3afcf66e58d5135a101aa6f6d1e12d07d7e40a/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/line_news_fragment.xml",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/layout/line_news_fragment.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/venkateswara/.android/build-cache/952f89ca2b8a588b99ec9e7cbc26b921b40302a3/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/venkateswara/.android/build-cache/0e3afcf66e58d5135a101aa6f6d1e12d07d7e40a/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/venkateswara/.android/build-cache/952f89ca2b8a588b99ec9e7cbc26b921b40302a3/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/linedetails_layout.xml",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/layout/linedetails_layout.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/venkateswara/.android/build-cache/0e3afcf66e58d5135a101aa6f6d1e12d07d7e40a/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/line_service_layout.xml",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/layout/line_service_layout.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/textview_sample.xml",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/layout/textview_sample.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/venkateswara/.android/build-cache/0e3afcf66e58d5135a101aa6f6d1e12d07d7e40a/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/venkateswara/.android/build-cache/952f89ca2b8a588b99ec9e7cbc26b921b40302a3/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/nearby_fragment.xml",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/layout/nearby_fragment.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_prediction.xml",
+        "source": "/Users/venkateswara/.android/build-cache/a954af3bd932976c3df605572baa20e86838b3ba/output/res/layout/place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/line_details_fragment.xml",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/layout/line_details_fragment.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/app_bar_main.xml",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/venkateswara/.android/build-cache/0e3afcf66e58d5135a101aa6f6d1e12d07d7e40a/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/venkateswara/.android/build-cache/0e3afcf66e58d5135a101aa6f6d1e12d07d7e40a/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/nearby_station_detail.xml",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/layout/nearby_station_detail.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/venkateswara/.android/build-cache/0e3afcf66e58d5135a101aa6f6d1e12d07d7e40a/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/content_main.xml",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/layout/content_main.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/nav_header_main.xml",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_powered_by_google.xml",
+        "source": "/Users/venkateswara/.android/build-cache/a954af3bd932976c3df605572baa20e86838b3ba/output/res/layout/place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/venkateswara/.android/build-cache/0e3afcf66e58d5135a101aa6f6d1e12d07d7e40a/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/venkateswara/.android/build-cache/0e3afcf66e58d5135a101aa6f6d1e12d07d7e40a/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/venkateswara/.android/build-cache/0e3afcf66e58d5135a101aa6f6d1e12d07d7e40a/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/favorites_cardview.xml",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/layout/favorites_cardview.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/venkateswara/.android/build-cache/0e3afcf66e58d5135a101aa6f6d1e12d07d7e40a/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/info_window_nearby_staion.xml",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/layout/info_window_nearby_staion.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/marker_text.xml",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/layout/marker_text.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/venkateswara/.android/build-cache/952f89ca2b8a588b99ec9e7cbc26b921b40302a3/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/venkateswara/.android/build-cache/0e3afcf66e58d5135a101aa6f6d1e12d07d7e40a/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/venkateswara/.android/build-cache/0e3afcf66e58d5135a101aa6f6d1e12d07d7e40a/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/venkateswara/.android/build-cache/0e3afcf66e58d5135a101aa6f6d1e12d07d7e40a/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/amu_webview.xml",
+        "source": "/Users/venkateswara/.android/build-cache/c653fae5eb073c472ae8aab329434da0d470228f/output/res/layout/amu_webview.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/venkateswara/.android/build-cache/0e3afcf66e58d5135a101aa6f6d1e12d07d7e40a/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/amu_text_bubble.xml",
+        "source": "/Users/venkateswara/.android/build-cache/c653fae5eb073c472ae8aab329434da0d470228f/output/res/layout/amu_text_bubble.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/venkateswara/.android/build-cache/952f89ca2b8a588b99ec9e7cbc26b921b40302a3/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/venkateswara/.android/build-cache/0e3afcf66e58d5135a101aa6f6d1e12d07d7e40a/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/venkateswara/.android/build-cache/952f89ca2b8a588b99ec9e7cbc26b921b40302a3/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/venkateswara/.android/build-cache/0e3afcf66e58d5135a101aa6f6d1e12d07d7e40a/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/line_news_cardlayout.xml",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/layout/line_news_cardlayout.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/venkateswara/.android/build-cache/0e3afcf66e58d5135a101aa6f6d1e12d07d7e40a/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/venkateswara/.android/build-cache/0e3afcf66e58d5135a101aa6f6d1e12d07d7e40a/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/venkateswara/.android/build-cache/0e3afcf66e58d5135a101aa6f6d1e12d07d7e40a/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/venkateswara/.android/build-cache/0e3afcf66e58d5135a101aa6f6d1e12d07d7e40a/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/amu_info_window.xml",
+        "source": "/Users/venkateswara/.android/build-cache/c653fae5eb073c472ae8aab329434da0d470228f/output/res/layout/amu_info_window.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/venkateswara/.android/build-cache/952f89ca2b8a588b99ec9e7cbc26b921b40302a3/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/services_station_layout.xml",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/layout/services_station_layout.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/place_autocomplete_fragment.xml",
+        "source": "/Users/venkateswara/.android/build-cache/a954af3bd932976c3df605572baa20e86838b3ba/output/res/layout/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/nearby_viewpager_stops.xml",
+        "source": "/Users/venkateswara/Downloads/GoLondon/app/src/main/res/layout/nearby_viewpager_stops.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/venkateswara/.android/build-cache/952f89ca2b8a588b99ec9e7cbc26b921b40302a3/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/venkateswara/Downloads/GoLondon/app/build/intermediates/res/merged/debug/layout/place_autocomplete_progress.xml",
+        "source": "/Users/venkateswara/.android/build-cache/a954af3bd932976c3df605572baa20e86838b3ba/output/res/layout/place_autocomplete_progress.xml"
+    }
+]

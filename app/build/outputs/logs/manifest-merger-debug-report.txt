@@ -1,0 +1,325 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml:2:1-55:12
+	package
+		ADDED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml:5:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.0.2] /Users/venkateswara/.android/build-cache/e5594515d95609e6fec01297d49cb41ec6642c43/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.2] /Users/venkateswara/.android/build-cache/f2fd3b55b05e7d50e1bcbfdcbb24077acfba2e48/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] /Users/venkateswara/.android/build-cache/81148e23e9e4bbfaecc1693c28f206f1fcbce782/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.2] /Users/venkateswara/.android/build-cache/6390429f3f2d4f64a7b4348711e69cc22cbad192/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml:6:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.0.2] /Users/venkateswara/.android/build-cache/e5594515d95609e6fec01297d49cb41ec6642c43/output/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.0.2] /Users/venkateswara/.android/build-cache/f2fd3b55b05e7d50e1bcbfdcbb24077acfba2e48/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] /Users/venkateswara/.android/build-cache/81148e23e9e4bbfaecc1693c28f206f1fcbce782/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.2] /Users/venkateswara/.android/build-cache/6390429f3f2d4f64a7b4348711e69cc22cbad192/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml:7:22-76
+application
+ADDED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml:9:5-53:19
+MERGED from [com.android.support:design:25.3.1] /Users/venkateswara/.android/build-cache/952f89ca2b8a588b99ec9e7cbc26b921b40302a3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/venkateswara/.android/build-cache/c0278ea21b4232bb75d0cd03efac0c1909903e97/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] /Users/venkateswara/.android/build-cache/740c1830a7562cd9240deac40770bd089a16267a/output/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:11.0.2] /Users/venkateswara/.android/build-cache/7f6f65411f704da889ab30b5b90ac56e7e9411ce/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-places:11.0.2] /Users/venkateswara/.android/build-cache/a954af3bd932976c3df605572baa20e86838b3ba/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.0.2] /Users/venkateswara/.android/build-cache/e5594515d95609e6fec01297d49cb41ec6642c43/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.2] /Users/venkateswara/.android/build-cache/ea9a9abb22e1fc44d7f61375895b74a24e013089/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.astuetz:pagerslidingtabstrip:1.0.1] /Users/venkateswara/.android/build-cache/76a84e6665fbafec25bbdf4216e674118d2bee8e/output/AndroidManifest.xml:4:5-19
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/venkateswara/.android/build-cache/a7f771734de992677207523b28049bc07c12a336/output/AndroidManifest.xml:26:5-20
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/venkateswara/.android/build-cache/c653fae5eb073c472ae8aab329434da0d470228f/output/AndroidManifest.xml:7:5-11:19
+MERGED from [com.tuyenmonkey:mkloader:1.0.0] /Users/venkateswara/.android/build-cache/a13a7ae73a10b5ca4940b0a9ba8a7ae029561fc2/output/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/venkateswara/.android/build-cache/0e3afcf66e58d5135a101aa6f6d1e12d07d7e40a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/venkateswara/.android/build-cache/1e0d2cecd5281bc2fe8d1399dbad496e3cb1fe2b/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/venkateswara/.android/build-cache/c78fdd0edb1da6ef472d77a8c779995ee33927ab/output/AndroidManifest.xml:26:5-20
+MERGED from [com.balysv:material-ripple:1.0.2] /Users/venkateswara/.android/build-cache/faea2bd2a28122b962188788033057bfcc60c201/output/AndroidManifest.xml:12:5-20
+MERGED from [com.google.firebase:firebase-core:11.0.2] /Users/venkateswara/.android/build-cache/1f867efdd8d49fc567cd600daa3a5c09f519108f/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.0.2] /Users/venkateswara/.android/build-cache/f2fd3b55b05e7d50e1bcbfdcbb24077acfba2e48/output/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] /Users/venkateswara/.android/build-cache/81148e23e9e4bbfaecc1693c28f206f1fcbce782/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.2] /Users/venkateswara/.android/build-cache/6390429f3f2d4f64a7b4348711e69cc22cbad192/output/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.2] /Users/venkateswara/.android/build-cache/be58fe7b29f6734c2fcdf569b1f4b6d501660a13/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] /Users/venkateswara/.android/build-cache/edd7b66f41375747aac95649faf8a52adea97f39/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] /Users/venkateswara/.android/build-cache/d0aca75dcec435fde4b59ab4d0169d7080be163f/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] /Users/venkateswara/.android/build-cache/ca84478b0c3dd1a1961544d7406c80778648ee83/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/venkateswara/.android/build-cache/ba1d72fbb9932f217be1ba9ed1f5681cd61f1aae/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/venkateswara/.android/build-cache/beadeab7a596784460432c708459bc83b7c7c71a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/venkateswara/.android/build-cache/1b86949bb1d2673cdeee9e60054d596746709719/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/venkateswara/.android/build-cache/c091d4bde9a643d7c372f7c7313bb270568b22f5/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/venkateswara/.android/build-cache/c6c08cecd8755a2b0cc720e0f56227648e7a4a60/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml:12:9-41
+	android:supportsRtl
+		ADDED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml:13:9-35
+	android:allowBackup
+		ADDED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml:11:9-43
+	android:theme
+		ADDED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml:15:9-68
+service#com.srisindhusaride.golondon.GetAddressIntentService
+ADDED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml:18:9-19:39
+	android:exported
+		ADDED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml:18:18-85
+activity#com.srisindhusaride.golondon.MainActivity
+ADDED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml:21:9-31:20
+	android:screenOrientation
+		ADDED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml:25:13-49
+	android:label
+		ADDED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml:23:13-45
+	android:theme
+		ADDED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml:24:13-56
+	android:name
+		ADDED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml:22:13-69
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml:29:27-74
+activity#com.srisindhusaride.golondon.Nearby_Station_Detail
+ADDED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml:33:9-35:76
+	android:screenOrientation
+		ADDED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml:34:13-49
+	android:configChanges
+		ADDED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml:35:13-74
+	android:name
+		ADDED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml:33:19-84
+activity#com.srisindhusaride.golondon.Nearby_Stops_Detail
+ADDED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml:37:9-39:76
+	android:screenOrientation
+		ADDED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml:38:13-49
+	android:configChanges
+		ADDED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml:39:13-74
+	android:name
+		ADDED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml:37:19-82
+activity#com.srisindhusaride.golondon.Favorites_Activity
+ADDED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml:41:9-43:51
+	android:screenOrientation
+		ADDED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml:43:13-49
+	android:label
+		ADDED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml:42:13-51
+	android:name
+		ADDED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml:41:19-81
+meta-data#com.google.android.gms.version
+ADDED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml:45:9-47:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/venkateswara/.android/build-cache/c653fae5eb073c472ae8aab329434da0d470228f/output/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] /Users/venkateswara/.android/build-cache/d0aca75dcec435fde4b59ab4d0169d7080be163f/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml:47:13-66
+	android:name
+		ADDED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml:46:13-58
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml:50:9-52:70
+	android:value
+		ADDED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml:52:13-68
+	android:name
+		ADDED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml:51:13-58
+uses-sdk
+INJECTED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] /Users/venkateswara/.android/build-cache/952f89ca2b8a588b99ec9e7cbc26b921b40302a3/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:transition:25.3.1] /Users/venkateswara/.android/build-cache/c0278ea21b4232bb75d0cd03efac0c1909903e97/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] /Users/venkateswara/.android/build-cache/740c1830a7562cd9240deac40770bd089a16267a/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-location:11.0.2] /Users/venkateswara/.android/build-cache/7f6f65411f704da889ab30b5b90ac56e7e9411ce/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-places:11.0.2] /Users/venkateswara/.android/build-cache/a954af3bd932976c3df605572baa20e86838b3ba/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.2] /Users/venkateswara/.android/build-cache/e5594515d95609e6fec01297d49cb41ec6642c43/output/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.2] /Users/venkateswara/.android/build-cache/ea9a9abb22e1fc44d7f61375895b74a24e013089/output/AndroidManifest.xml:17:5-43
+MERGED from [com.astuetz:pagerslidingtabstrip:1.0.1] /Users/venkateswara/.android/build-cache/76a84e6665fbafec25bbdf4216e674118d2bee8e/output/AndroidManifest.xml:2:5-72
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/venkateswara/.android/build-cache/ebdc30f5a9fa21fe4f15e49572dcbcc6279d1499/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/venkateswara/.android/build-cache/a7f771734de992677207523b28049bc07c12a336/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/venkateswara/.android/build-cache/c653fae5eb073c472ae8aab329434da0d470228f/output/AndroidManifest.xml:5:5-43
+MERGED from [com.tuyenmonkey:mkloader:1.0.0] /Users/venkateswara/.android/build-cache/a13a7ae73a10b5ca4940b0a9ba8a7ae029561fc2/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/venkateswara/.android/build-cache/0e3afcf66e58d5135a101aa6f6d1e12d07d7e40a/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/venkateswara/.android/build-cache/1e0d2cecd5281bc2fe8d1399dbad496e3cb1fe2b/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/venkateswara/.android/build-cache/c78fdd0edb1da6ef472d77a8c779995ee33927ab/output/AndroidManifest.xml:20:5-43
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.5] /Users/venkateswara/.android/build-cache/fd40322c992ed94cc255c0968cdefe63be4282d8/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.balysv:material-ripple:1.0.2] /Users/venkateswara/.android/build-cache/faea2bd2a28122b962188788033057bfcc60c201/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.firebase:firebase-core:11.0.2] /Users/venkateswara/.android/build-cache/1f867efdd8d49fc567cd600daa3a5c09f519108f/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.2] /Users/venkateswara/.android/build-cache/f2fd3b55b05e7d50e1bcbfdcbb24077acfba2e48/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] /Users/venkateswara/.android/build-cache/81148e23e9e4bbfaecc1693c28f206f1fcbce782/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.2] /Users/venkateswara/.android/build-cache/6390429f3f2d4f64a7b4348711e69cc22cbad192/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.2] /Users/venkateswara/.android/build-cache/be58fe7b29f6734c2fcdf569b1f4b6d501660a13/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] /Users/venkateswara/.android/build-cache/edd7b66f41375747aac95649faf8a52adea97f39/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] /Users/venkateswara/.android/build-cache/d0aca75dcec435fde4b59ab4d0169d7080be163f/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] /Users/venkateswara/.android/build-cache/ca84478b0c3dd1a1961544d7406c80778648ee83/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/venkateswara/.android/build-cache/ba1d72fbb9932f217be1ba9ed1f5681cd61f1aae/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/venkateswara/.android/build-cache/beadeab7a596784460432c708459bc83b7c7c71a/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/venkateswara/.android/build-cache/1b86949bb1d2673cdeee9e60054d596746709719/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/venkateswara/.android/build-cache/c091d4bde9a643d7c372f7c7313bb270568b22f5/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/venkateswara/.android/build-cache/c6c08cecd8755a2b0cc720e0f56227648e7a4a60/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /Users/venkateswara/.android/build-cache/952f89ca2b8a588b99ec9e7cbc26b921b40302a3/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/venkateswara/Downloads/GoLondon/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /Users/venkateswara/.android/build-cache/952f89ca2b8a588b99ec9e7cbc26b921b40302a3/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] /Users/venkateswara/.android/build-cache/c0278ea21b4232bb75d0cd03efac0c1909903e97/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/venkateswara/.android/build-cache/ebdc30f5a9fa21fe4f15e49572dcbcc6279d1499/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/venkateswara/.android/build-cache/a7f771734de992677207523b28049bc07c12a336/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/venkateswara/.android/build-cache/0e3afcf66e58d5135a101aa6f6d1e12d07d7e40a/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/venkateswara/.android/build-cache/1e0d2cecd5281bc2fe8d1399dbad496e3cb1fe2b/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/venkateswara/.android/build-cache/c78fdd0edb1da6ef472d77a8c779995ee33927ab/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/venkateswara/.android/build-cache/ca84478b0c3dd1a1961544d7406c80778648ee83/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/venkateswara/.android/build-cache/ba1d72fbb9932f217be1ba9ed1f5681cd61f1aae/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/venkateswara/.android/build-cache/beadeab7a596784460432c708459bc83b7c7c71a/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/venkateswara/.android/build-cache/1b86949bb1d2673cdeee9e60054d596746709719/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/venkateswara/.android/build-cache/c091d4bde9a643d7c372f7c7313bb270568b22f5/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/venkateswara/.android/build-cache/c6c08cecd8755a2b0cc720e0f56227648e7a4a60/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /Users/venkateswara/.android/build-cache/952f89ca2b8a588b99ec9e7cbc26b921b40302a3/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /Users/venkateswara/.android/build-cache/952f89ca2b8a588b99ec9e7cbc26b921b40302a3/output/AndroidManifest.xml:26:9-47
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.2] /Users/venkateswara/.android/build-cache/e5594515d95609e6fec01297d49cb41ec6642c43/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.2] /Users/venkateswara/.android/build-cache/e5594515d95609e6fec01297d49cb41ec6642c43/output/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.2] /Users/venkateswara/.android/build-cache/e5594515d95609e6fec01297d49cb41ec6642c43/output/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.2] /Users/venkateswara/.android/build-cache/ea9a9abb22e1fc44d7f61375895b74a24e013089/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] /Users/venkateswara/.android/build-cache/ea9a9abb22e1fc44d7f61375895b74a24e013089/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] /Users/venkateswara/.android/build-cache/ea9a9abb22e1fc44d7f61375895b74a24e013089/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] /Users/venkateswara/.android/build-cache/ea9a9abb22e1fc44d7f61375895b74a24e013089/output/AndroidManifest.xml:19:19-85
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/venkateswara/.android/build-cache/f2fd3b55b05e7d50e1bcbfdcbb24077acfba2e48/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] /Users/venkateswara/.android/build-cache/81148e23e9e4bbfaecc1693c28f206f1fcbce782/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.2] /Users/venkateswara/.android/build-cache/6390429f3f2d4f64a7b4348711e69cc22cbad192/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/venkateswara/.android/build-cache/f2fd3b55b05e7d50e1bcbfdcbb24077acfba2e48/output/AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/venkateswara/.android/build-cache/f2fd3b55b05e7d50e1bcbfdcbb24077acfba2e48/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] /Users/venkateswara/.android/build-cache/81148e23e9e4bbfaecc1693c28f206f1fcbce782/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/venkateswara/.android/build-cache/f2fd3b55b05e7d50e1bcbfdcbb24077acfba2e48/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/venkateswara/.android/build-cache/f2fd3b55b05e7d50e1bcbfdcbb24077acfba2e48/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/venkateswara/.android/build-cache/f2fd3b55b05e7d50e1bcbfdcbb24077acfba2e48/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/venkateswara/.android/build-cache/f2fd3b55b05e7d50e1bcbfdcbb24077acfba2e48/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/venkateswara/.android/build-cache/f2fd3b55b05e7d50e1bcbfdcbb24077acfba2e48/output/AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/venkateswara/.android/build-cache/f2fd3b55b05e7d50e1bcbfdcbb24077acfba2e48/output/AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/venkateswara/.android/build-cache/f2fd3b55b05e7d50e1bcbfdcbb24077acfba2e48/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/venkateswara/.android/build-cache/f2fd3b55b05e7d50e1bcbfdcbb24077acfba2e48/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/venkateswara/.android/build-cache/f2fd3b55b05e7d50e1bcbfdcbb24077acfba2e48/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/venkateswara/.android/build-cache/f2fd3b55b05e7d50e1bcbfdcbb24077acfba2e48/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/venkateswara/.android/build-cache/f2fd3b55b05e7d50e1bcbfdcbb24077acfba2e48/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/venkateswara/.android/build-cache/f2fd3b55b05e7d50e1bcbfdcbb24077acfba2e48/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] /Users/venkateswara/.android/build-cache/81148e23e9e4bbfaecc1693c28f206f1fcbce782/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/venkateswara/.android/build-cache/f2fd3b55b05e7d50e1bcbfdcbb24077acfba2e48/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/venkateswara/.android/build-cache/f2fd3b55b05e7d50e1bcbfdcbb24077acfba2e48/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/venkateswara/.android/build-cache/f2fd3b55b05e7d50e1bcbfdcbb24077acfba2e48/output/AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/venkateswara/.android/build-cache/f2fd3b55b05e7d50e1bcbfdcbb24077acfba2e48/output/AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/venkateswara/.android/build-cache/f2fd3b55b05e7d50e1bcbfdcbb24077acfba2e48/output/AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/venkateswara/.android/build-cache/f2fd3b55b05e7d50e1bcbfdcbb24077acfba2e48/output/AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/venkateswara/.android/build-cache/f2fd3b55b05e7d50e1bcbfdcbb24077acfba2e48/output/AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/venkateswara/.android/build-cache/f2fd3b55b05e7d50e1bcbfdcbb24077acfba2e48/output/AndroidManifest.xml:33:16-90
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/venkateswara/.android/build-cache/6390429f3f2d4f64a7b4348711e69cc22cbad192/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/venkateswara/.android/build-cache/6390429f3f2d4f64a7b4348711e69cc22cbad192/output/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/venkateswara/.android/build-cache/6390429f3f2d4f64a7b4348711e69cc22cbad192/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/venkateswara/.android/build-cache/6390429f3f2d4f64a7b4348711e69cc22cbad192/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/venkateswara/.android/build-cache/6390429f3f2d4f64a7b4348711e69cc22cbad192/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/venkateswara/.android/build-cache/6390429f3f2d4f64a7b4348711e69cc22cbad192/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/venkateswara/.android/build-cache/6390429f3f2d4f64a7b4348711e69cc22cbad192/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/venkateswara/.android/build-cache/6390429f3f2d4f64a7b4348711e69cc22cbad192/output/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/venkateswara/.android/build-cache/6390429f3f2d4f64a7b4348711e69cc22cbad192/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/venkateswara/.android/build-cache/6390429f3f2d4f64a7b4348711e69cc22cbad192/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/venkateswara/.android/build-cache/6390429f3f2d4f64a7b4348711e69cc22cbad192/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/venkateswara/.android/build-cache/6390429f3f2d4f64a7b4348711e69cc22cbad192/output/AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/venkateswara/.android/build-cache/6390429f3f2d4f64a7b4348711e69cc22cbad192/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/venkateswara/.android/build-cache/6390429f3f2d4f64a7b4348711e69cc22cbad192/output/AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/venkateswara/.android/build-cache/6390429f3f2d4f64a7b4348711e69cc22cbad192/output/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/venkateswara/.android/build-cache/6390429f3f2d4f64a7b4348711e69cc22cbad192/output/AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/venkateswara/.android/build-cache/6390429f3f2d4f64a7b4348711e69cc22cbad192/output/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/venkateswara/.android/build-cache/6390429f3f2d4f64a7b4348711e69cc22cbad192/output/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/venkateswara/.android/build-cache/6390429f3f2d4f64a7b4348711e69cc22cbad192/output/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/venkateswara/.android/build-cache/6390429f3f2d4f64a7b4348711e69cc22cbad192/output/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/venkateswara/.android/build-cache/6390429f3f2d4f64a7b4348711e69cc22cbad192/output/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/venkateswara/.android/build-cache/6390429f3f2d4f64a7b4348711e69cc22cbad192/output/AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/venkateswara/.android/build-cache/6390429f3f2d4f64a7b4348711e69cc22cbad192/output/AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/venkateswara/.android/build-cache/6390429f3f2d4f64a7b4348711e69cc22cbad192/output/AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/venkateswara/.android/build-cache/6390429f3f2d4f64a7b4348711e69cc22cbad192/output/AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/venkateswara/.android/build-cache/6390429f3f2d4f64a7b4348711e69cc22cbad192/output/AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.2] /Users/venkateswara/.android/build-cache/be58fe7b29f6734c2fcdf569b1f4b6d501660a13/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.2] /Users/venkateswara/.android/build-cache/be58fe7b29f6734c2fcdf569b1f4b6d501660a13/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.2] /Users/venkateswara/.android/build-cache/be58fe7b29f6734c2fcdf569b1f4b6d501660a13/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.2] /Users/venkateswara/.android/build-cache/be58fe7b29f6734c2fcdf569b1f4b6d501660a13/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.2] /Users/venkateswara/.android/build-cache/be58fe7b29f6734c2fcdf569b1f4b6d501660a13/output/AndroidManifest.xml:6:79-143

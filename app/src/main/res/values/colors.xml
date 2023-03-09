@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#32AAA8</color>
+    <color name="colorPrimaryDark">#2D9C9A</color>
+    <color name="colorAccent">#AA2C72</color>
+    <color name="colorTextPrimary">#302F2F</color>
+    <color name="colorTextSecondary">#827F83</color>
+    <color name="primary_text_material_light">#302f2f</color>
+    <color name="secondary_text_material_light">#716e73</color>
+    <color name="horizontal_line">#979797</color>
+    <color name="textColorAccent">#7ED321</color>
+    <color name="cardViewBG">#F3F3F3</color>
+    <color name="rippleEffect">#E6E6E6</color>
+    <color name="textColorAccentSecondary">#B6DCC3</color>
+    <color name="layout_light_white_bg">#F3F3F3</color>
+    <color name="route_dot">#0A6A8C</color>
+    <color name="dark_gray">#4A4A4A</color>
+    
+    <color name="piccadilly">#0019a8</color>
+    <color name="bakerloo">#894e24</color>
+    <color name="district">#007229</color>
+    <color name="central">#dc241f</color>
+    <color name="circle">#ffce00</color>
+    <color name="hammersmith">#d799af</color>
+    <color name="jubilee">#6a7278</color>
+    <color name="metropolitan">#751056</color>
+    <color name="northern">#000000</color>
+    <color name="victoria">#00a0e2</color>
+    <color name="waterloo">#76d0bd</color>
+    <color name="overground">#e86a10</color>
+    <color name="tfl">#0019a8</color>
+    <color name="dlr">#00afad</color>
+    <color name="tram">#66cc00</color>
+</resources>

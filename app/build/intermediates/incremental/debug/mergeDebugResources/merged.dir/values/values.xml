@@ -1698,15 +1698,22 @@
     <item name="action_menu_divider" type="id"/>
     <item name="action_menu_presenter" type="id"/>
     <item name="amu_text" type="id"/>
+    <item name="androidx_compose_ui_view_composition_context" type="id"/>
     <item name="androidx_window_activity_scope" type="id"/>
+    <item name="compose_view_saveable_id_tag" type="id"/>
+    <item name="consume_window_insets_tag" type="id"/>
     <item name="downArrow_image_btn_id" type="id"/>
     <item name="fragment_container_view_tag" type="id"/>
     <item name="ghost_view" type="id"/>
     <item name="ghost_view_holder" type="id"/>
+    <item name="hide_in_inspector_tag" type="id"/>
     <item name="home" type="id"/>
+    <item name="inspection_slot_table_set" type="id"/>
+    <item name="is_pooling_container_tag" type="id"/>
     <item name="item_touch_helper_previous_elevation" type="id"/>
     <item name="line1" type="id"/>
     <item name="line3" type="id"/>
+    <item name="maps_compose_nodraw_container_view" type="id"/>
     <item name="material_clock_face" type="id"/>
     <item name="material_clock_level" type="id"/>
     <item name="material_value_index" type="id"/>
@@ -1726,6 +1733,7 @@
     <item name="navigation_bar_item_large_label_view" type="id"/>
     <item name="navigation_bar_item_small_label_view" type="id"/>
     <item name="parent_matrix" type="id"/>
+    <item name="pooling_container_listener_holder_tag" type="id"/>
     <item name="progress_circular" type="id"/>
     <item name="progress_horizontal" type="id"/>
     <item name="row_index_key" type="id"/>
@@ -1776,6 +1784,7 @@
     <id name="view_tree_saved_state_registry_owner"/>
     <id name="view_tree_view_model_store_owner"/>
     <item name="visible_removing_fragment_view_tag" type="id"/>
+    <item name="wrapped_composition_tag" type="id"/>
     <integer name="abc_config_activityDefaultDur">220</integer>
     <integer name="abc_config_activityShortDur">150</integer>
     <integer name="app_bar_elevation_anim_duration">150</integer>
@@ -1884,6 +1893,8 @@
     <string name="character_counter_pattern" translatable="false">%1$d/%2$d</string>
     <string name="clear_text_end_icon_content_description">Clear text</string>
     <string name="close_desc">Close line details and open map in full screen</string>
+    <string name="close_drawer">"Close navigation menu"</string>
+    <string name="close_sheet">"Close sheet"</string>
     <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable</string>
     <string msgid="227660514972886228" name="common_google_play_services_enable_text"><ns2:g id="app_name">%1$s</ns2:g> won\'t work unless you enable Google Play services.</string>
     <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
@@ -1903,8 +1914,11 @@
     <string name="common_signin_button_text">Sign in</string>
     <string name="common_signin_button_text_long">Sign in with Google</string>
     <string name="current_address">Your Address:</string>
+    <string name="default_error_message">"Invalid input"</string>
+    <string name="default_popup_window_title" ns1:ignore="ExtraTranslation">"Pop-Up Window"</string>
     <string name="default_web_client_id" translatable="false">803352821859-sc7v9fcr9j3aa5i36645d0ulrp51bu37.apps.googleusercontent.com</string>
     <string name="delete">Delete</string>
+    <string name="dropdown_menu">"Dropdown menu"</string>
     <string description="Screen reader announcement for when a checkbox is on error. [CHAR LIMIT=NONE]" name="error_a11y_label">
     Error: invalid
   </string>
@@ -1923,6 +1937,8 @@
     <string name="hide_bottom_view_on_scroll_behavior" translatable="false">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="home_station">Home Station:</string>
     <string description="Content description for an icon that appears in the title area of a dialog" name="icon_content_description">Dialog Icon</string>
+    <string name="in_progress">In progress</string>
+    <string name="indeterminate">Partially checked</string>
     <string name="item_view_role_description">Tab</string>
     <string name="journey">Journey</string>
     <string name="later">Later</string>
@@ -2033,6 +2049,7 @@
     <string name="nav_app_bar_open_drawer_description">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_menu">"Navigation menu"</string>
     <string name="nearby">Nearby</string>
     <string name="no_info_available_bus">No data provided</string>
     <string name="no_info_available_trains">No data provided</string>
@@ -2041,8 +2058,11 @@
     <string name="no_nearby_stops_1km">There are no bus stops within a range of 1 kms. Click here to try within range of 2 kms </string>
     <string name="no_nearby_stops_2km">There are no bus stops within a range of 2 kms. Please try some other location</string>
     <string name="no_station_info">No station has been added yet</string>
+    <string name="not_selected">Not selected</string>
     <string name="notflserivceavailable">TFL Service is not available in this region. Please try other location within UK</string>
     <string name="nothanks">No, thanks</string>
+    <string name="off">Off</string>
+    <string name="on">On</string>
     <string name="parking">Parking</string>
     <string name="password_toggle_content_description">Show password</string>
     <string name="path_password_eye" translatable="false">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
@@ -2052,6 +2072,8 @@
     <string name="place_autocomplete_clear_button">Clear search</string>
     <string name="place_autocomplete_search_hint">Search</string>
     <string name="project_id" translatable="false">go-london-1486985666737</string>
+    <string name="range_end">"Range end"</string>
+    <string name="range_start">"Range start"</string>
     <string name="rategolondon">Rate Go London</string>
     <string name="rateme">If you enjoy using this app, would you mind taking a moment to rate it? Thank you for your support!</string>
     <string name="ratenow">Rate Now</string>
@@ -2066,11 +2088,14 @@
   </string>
     <string description="Content description for the X button to clear text [CHAR_LIMIT=NONE]" name="searchview_clear_text_content_description">Clear text</string>
     <string description="Content description for the navigation button to return to the previous screen [CHAR_LIMIT=NONE]" name="searchview_navigation_content_description">Back</string>
+    <string name="selected">Selected</string>
     <string name="services">SERVICES</string>
     <string description="Title of the side sheet&apos;s accessibility pane that is spoken by TalkBack when the side sheet appears on screen. [CHAR_LIMIT=NONE]" name="side_sheet_accessibility_pane_title">Side Sheet</string>
     <string name="side_sheet_behavior" translatable="false">com.google.android.material.sidesheet.SideSheetBehavior</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="streetView">Street View</string>
+    <string name="tab">Tab</string>
+    <string name="template_percent"><ns2:g id="percentage">%1$d</ns2:g> percent.</string>
     <string name="work_station">Work Station:</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
@@ -5376,6 +5401,16 @@
     </style>
     <style name="CardView.Light">
         <item name="cardBackgroundColor">@color/cardview_light_background</item>
+    </style>
+    <style name="DialogWindowTheme">
+        <item name="android:windowClipToOutline">false</item>
+    </style>
+    <style name="FloatingDialogTheme">
+        <item name="android:windowIsFloating">false</item>
+    </style>
+    <style name="FloatingDialogWindowTheme">
+        <item name="android:windowClipToOutline">false</item>
+        <item name="android:dialogTheme">@style/FloatingDialogTheme</item>
     </style>
     <style name="MaterialAlertDialog.Material3" parent="MaterialAlertDialog.MaterialComponents">
     <item name="enforceMaterialTheme">true</item>

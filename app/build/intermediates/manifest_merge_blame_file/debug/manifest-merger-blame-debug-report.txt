@@ -162,20 +162,52 @@
 100-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/venkateswara/.gradle/caches/transforms-3/e7f8fd5c5240fb844e871069ff3f0885/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
 101                android:value="androidx.startup" />
 101-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/venkateswara/.gradle/caches/transforms-3/e7f8fd5c5240fb844e871069ff3f0885/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
-102        </provider>
-103
-104        <uses-library
-104-->[androidx.window:window:1.0.0] /Users/venkateswara/.gradle/caches/transforms-3/0f303e7627267e95b2ea28a4a345d17e/transformed/jetified-window-1.0.0/AndroidManifest.xml:25:9-27:40
-105            android:name="androidx.window.extensions"
-105-->[androidx.window:window:1.0.0] /Users/venkateswara/.gradle/caches/transforms-3/0f303e7627267e95b2ea28a4a345d17e/transformed/jetified-window-1.0.0/AndroidManifest.xml:26:13-54
-106            android:required="false" />
-106-->[androidx.window:window:1.0.0] /Users/venkateswara/.gradle/caches/transforms-3/0f303e7627267e95b2ea28a4a345d17e/transformed/jetified-window-1.0.0/AndroidManifest.xml:27:13-37
+102            <meta-data
+102-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/venkateswara/.gradle/caches/transforms-3/511fec9e9e62179a876f2edcea2d465b/transformed/jetified-profileinstaller-1.2.0/AndroidManifest.xml:30:13-32:52
+103                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+103-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/venkateswara/.gradle/caches/transforms-3/511fec9e9e62179a876f2edcea2d465b/transformed/jetified-profileinstaller-1.2.0/AndroidManifest.xml:31:17-85
+104                android:value="androidx.startup" />
+104-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/venkateswara/.gradle/caches/transforms-3/511fec9e9e62179a876f2edcea2d465b/transformed/jetified-profileinstaller-1.2.0/AndroidManifest.xml:32:17-49
+105        </provider>
+106
 107        <uses-library
-107-->[androidx.window:window:1.0.0] /Users/venkateswara/.gradle/caches/transforms-3/0f303e7627267e95b2ea28a4a345d17e/transformed/jetified-window-1.0.0/AndroidManifest.xml:28:9-30:40
-108            android:name="androidx.window.sidecar"
-108-->[androidx.window:window:1.0.0] /Users/venkateswara/.gradle/caches/transforms-3/0f303e7627267e95b2ea28a4a345d17e/transformed/jetified-window-1.0.0/AndroidManifest.xml:29:13-51
+107-->[androidx.window:window:1.0.0] /Users/venkateswara/.gradle/caches/transforms-3/0f303e7627267e95b2ea28a4a345d17e/transformed/jetified-window-1.0.0/AndroidManifest.xml:25:9-27:40
+108            android:name="androidx.window.extensions"
+108-->[androidx.window:window:1.0.0] /Users/venkateswara/.gradle/caches/transforms-3/0f303e7627267e95b2ea28a4a345d17e/transformed/jetified-window-1.0.0/AndroidManifest.xml:26:13-54
 109            android:required="false" />
-109-->[androidx.window:window:1.0.0] /Users/venkateswara/.gradle/caches/transforms-3/0f303e7627267e95b2ea28a4a345d17e/transformed/jetified-window-1.0.0/AndroidManifest.xml:30:13-37
-110    </application>
-111
-112</manifest>
+109-->[androidx.window:window:1.0.0] /Users/venkateswara/.gradle/caches/transforms-3/0f303e7627267e95b2ea28a4a345d17e/transformed/jetified-window-1.0.0/AndroidManifest.xml:27:13-37
+110        <uses-library
+110-->[androidx.window:window:1.0.0] /Users/venkateswara/.gradle/caches/transforms-3/0f303e7627267e95b2ea28a4a345d17e/transformed/jetified-window-1.0.0/AndroidManifest.xml:28:9-30:40
+111            android:name="androidx.window.sidecar"
+111-->[androidx.window:window:1.0.0] /Users/venkateswara/.gradle/caches/transforms-3/0f303e7627267e95b2ea28a4a345d17e/transformed/jetified-window-1.0.0/AndroidManifest.xml:29:13-51
+112            android:required="false" />
+112-->[androidx.window:window:1.0.0] /Users/venkateswara/.gradle/caches/transforms-3/0f303e7627267e95b2ea28a4a345d17e/transformed/jetified-window-1.0.0/AndroidManifest.xml:30:13-37
+113
+114        <receiver
+114-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/venkateswara/.gradle/caches/transforms-3/511fec9e9e62179a876f2edcea2d465b/transformed/jetified-profileinstaller-1.2.0/AndroidManifest.xml:35:9-47:20
+115            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+115-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/venkateswara/.gradle/caches/transforms-3/511fec9e9e62179a876f2edcea2d465b/transformed/jetified-profileinstaller-1.2.0/AndroidManifest.xml:36:13-76
+116            android:directBootAware="false"
+116-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/venkateswara/.gradle/caches/transforms-3/511fec9e9e62179a876f2edcea2d465b/transformed/jetified-profileinstaller-1.2.0/AndroidManifest.xml:37:13-44
+117            android:enabled="true"
+117-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/venkateswara/.gradle/caches/transforms-3/511fec9e9e62179a876f2edcea2d465b/transformed/jetified-profileinstaller-1.2.0/AndroidManifest.xml:38:13-35
+118            android:exported="true"
+118-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/venkateswara/.gradle/caches/transforms-3/511fec9e9e62179a876f2edcea2d465b/transformed/jetified-profileinstaller-1.2.0/AndroidManifest.xml:39:13-36
+119            android:permission="android.permission.DUMP" >
+119-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/venkateswara/.gradle/caches/transforms-3/511fec9e9e62179a876f2edcea2d465b/transformed/jetified-profileinstaller-1.2.0/AndroidManifest.xml:40:13-57
+120            <intent-filter>
+120-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/venkateswara/.gradle/caches/transforms-3/511fec9e9e62179a876f2edcea2d465b/transformed/jetified-profileinstaller-1.2.0/AndroidManifest.xml:41:13-43:29
+121                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+121-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/venkateswara/.gradle/caches/transforms-3/511fec9e9e62179a876f2edcea2d465b/transformed/jetified-profileinstaller-1.2.0/AndroidManifest.xml:42:17-91
+121-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/venkateswara/.gradle/caches/transforms-3/511fec9e9e62179a876f2edcea2d465b/transformed/jetified-profileinstaller-1.2.0/AndroidManifest.xml:42:25-88
+122            </intent-filter>
+123            <intent-filter>
+123-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/venkateswara/.gradle/caches/transforms-3/511fec9e9e62179a876f2edcea2d465b/transformed/jetified-profileinstaller-1.2.0/AndroidManifest.xml:44:13-46:29
+124                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+124-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/venkateswara/.gradle/caches/transforms-3/511fec9e9e62179a876f2edcea2d465b/transformed/jetified-profileinstaller-1.2.0/AndroidManifest.xml:45:17-85
+124-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/venkateswara/.gradle/caches/transforms-3/511fec9e9e62179a876f2edcea2d465b/transformed/jetified-profileinstaller-1.2.0/AndroidManifest.xml:45:25-82
+125            </intent-filter>
+126        </receiver>
+127    </application>
+128
+129</manifest>

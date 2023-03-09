@@ -2065,6 +2065,8 @@ color tooltip_background_dark
 color tooltip_background_light
 color tram
 color transparent
+color vector_tint_color
+color vector_tint_theme_color
 color victoria
 color waterloo
 dimen abc_action_bar_content_inset_material
@@ -3097,6 +3099,7 @@ id all
 id allStates
 id always
 id amu_text
+id androidx_compose_ui_view_composition_context
 id androidx_window_activity_scope
 id animateToEnd
 id animateToStart
@@ -3151,9 +3154,11 @@ id close_id
 id closest
 id collapseActionView
 id collapsing_toolbar
+id compose_view_saveable_id_tag
 id compress
 id confirm_button
 id constraint
+id consume_window_insets_tag
 id container
 id content
 id contentPanel
@@ -3248,6 +3253,7 @@ id group_divider
 id grouping
 id groups
 id header_title
+id hide_in_inspector_tag
 id hideable
 id home
 id homeAsUp
@@ -3273,8 +3279,10 @@ id immediateStop
 id included
 id indeterminate
 id info
+id inspection_slot_table_set
 id invisible
 id inward
+id is_pooling_container_tag
 id italic
 id item_touch_helper_previous_elevation
 id jumpToEnd
@@ -3306,6 +3314,7 @@ id m3_side_sheet
 id main_content
 id main_layout
 id map
+id maps_compose_nodraw_container_view
 id marquee
 id masked
 id match_constraint
@@ -3419,6 +3428,7 @@ id place_autocomplete_progress
 id place_autocomplete_search_button
 id place_autocomplete_search_input
 id place_autocomplete_separator
+id pooling_container_listener_holder_tag
 id position
 id postLayout
 id pressed
@@ -3621,6 +3631,7 @@ id work_station_linearLayout
 id wrap
 id wrap_content
 id wrap_content_constrained
+id wrapped_composition_tag
 id x_left
 id x_right
 integer abc_config_activityDefaultDur
@@ -3921,6 +3932,8 @@ string character_counter_overflowed_content_description
 string character_counter_pattern
 string clear_text_end_icon_content_description
 string close_desc
+string close_drawer
+string close_sheet
 string common_google_play_services_enable_button
 string common_google_play_services_enable_text
 string common_google_play_services_enable_title
@@ -3940,8 +3953,11 @@ string common_open_on_phone
 string common_signin_button_text
 string common_signin_button_text_long
 string current_address
+string default_error_message
+string default_popup_window_title
 string default_web_client_id
 string delete
+string dropdown_menu
 string error_a11y_label
 string error_icon_content_description
 string exposed_dropdown_menu_content_description
@@ -3958,6 +3974,8 @@ string hello_blank_fragment
 string hide_bottom_view_on_scroll_behavior
 string home_station
 string icon_content_description
+string in_progress
+string indeterminate
 string item_view_role_description
 string journey
 string later
@@ -4062,6 +4080,7 @@ string nav_app_bar_navigate_up_description
 string nav_app_bar_open_drawer_description
 string navigation_drawer_close
 string navigation_drawer_open
+string navigation_menu
 string nearby
 string no_info_available_bus
 string no_info_available_trains
@@ -4070,8 +4089,11 @@ string no_nearby_station_2km
 string no_nearby_stops_1km
 string no_nearby_stops_2km
 string no_station_info
+string not_selected
 string notflserivceavailable
 string nothanks
+string off
+string on
 string parking
 string password_toggle_content_description
 string path_password_eye
@@ -4081,6 +4103,8 @@ string path_password_strike_through
 string place_autocomplete_clear_button
 string place_autocomplete_search_hint
 string project_id
+string range_end
+string range_start
 string rategolondon
 string rateme
 string ratenow
@@ -4093,11 +4117,14 @@ string search_menu_title
 string searchbar_scrolling_view_behavior
 string searchview_clear_text_content_description
 string searchview_navigation_content_description
+string selected
 string services
 string side_sheet_accessibility_pane_title
 string side_sheet_behavior
 string status_bar_notification_info_overflow
 string streetView
+string tab
+string template_percent
 string work_station
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
@@ -4388,6 +4415,9 @@ style Base_Widget_MaterialComponents_TextView
 style CardView
 style CardView_Dark
 style CardView_Light
+style DialogWindowTheme
+style FloatingDialogTheme
+style FloatingDialogWindowTheme
 style MaterialAlertDialog_Material3
 style MaterialAlertDialog_Material3_Animation
 style MaterialAlertDialog_Material3_Body_Text
